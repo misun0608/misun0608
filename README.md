@@ -6,6 +6,7 @@
 😆 ESFJ
 💕 Swimming🏊, cycling🚴, running🏃 and quokkas🦘
 📖 I wanna learn Node.js, MongoDB
+👯 like using Notion with co-worker
 📫 How to reach me: chicmsl@gmail.com
 ```
 
