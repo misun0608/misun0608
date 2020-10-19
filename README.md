@@ -2,7 +2,7 @@
 ---
 
 ```
-💻 Backend developer based in Seoul, Korea
+💻 Backend Web developer based in Seoul, Korea
 😆 ESFJ
 💕 Swimming🏊, cycling🚴, running🏃 and quokkas🦘
 📖 I wanna learn Node.js, MongoDB
