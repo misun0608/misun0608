@@ -5,7 +5,7 @@
 💻 Backend developer based in Seoul
 😆 ESFJ
 💕 Swimming🏊, cycling🚴, running🏃 and quokkas🦘
-📖 I wanna learn <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+📖 I wanna learn Node.js, MongoDB
 📫 How to reach me: chicmsl@gmail.com
 ```
 
