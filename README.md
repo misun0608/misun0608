@@ -8,7 +8,7 @@
 🤖 I'm studying Spring Boot these days
 📖 I wanna learn Node.js, MongoDB
 👯 like using Notion with co-worker
-📫 How to reach me: (chicmsl@gmail.com)
+📫 How to reach me: <chicmsl@gmail.com>
 ```
 
 <!--
