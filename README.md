@@ -4,10 +4,10 @@
 ---
 
 ```
-💻 Backend Web developer based in Seoul, Korea
+💻 Web developer based in Seoul, Korea
 😆 ESFJ
-💕 triathlon🏊🚴🏃, games🎮 and quokkas🦘
-🤖 I'm studying Spring Boot these days
+💕 Swim🏊, tennis🎾, games🎮 and quokkas🦘
+🤖 I'm studying Spring Boot and React.js these days
 📖 I wanna learn Node.js and Nest.js
 👯 like using Notion with co-worker
 ```
